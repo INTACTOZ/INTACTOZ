@@ -19,7 +19,7 @@ Curso JAVA, JS e C#
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/INTACTOZ)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)]()
 
-- Sempre tenha um conhecimente mais elevado
+- Sempre tenha um conhecimento mais elevado
 
 
 
