@@ -16,6 +16,6 @@ Curso JAVA,JS, C#
 
 
 ## Projeto Orbit:
-[![ORBIT]<img align="center" width="400" src="https://github.com/INTACTOZ/INTACTOZin/blob/main/infiorbit.png"> ](https://discord.gg/WN5Vwr9kVp)
+[![ORBIT] <img align="center" src="https://github.com/INTACTOZ/INTACTOZin/blob/main/infiorbit.png"> ](https://discord.gg/WN5Vwr9kVp)
 
 - Um novo cheat de CS:GO juntamente com a infinity xyz
