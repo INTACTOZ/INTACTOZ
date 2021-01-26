@@ -3,7 +3,6 @@
 
 Curso JAVA,JS, C# 
 - Estou aprendendo C#
-Curso Js,C#, Python, Html e css
 
 
 
@@ -16,6 +15,6 @@ Curso Js,C#, Python, Html e css
 
 
 ##Projeto Orbit:
-[![Github Badge](https://imgur.com/rCjn0eZ)](https://discord.gg/WN5Vwr9kVp)
+[![ORBIT](https://imgur.com/rCjn0eZ)](https://discord.gg/WN5Vwr9kVp)
 
 - Um novo cheat de CS:GO juntamente com a infinity xyz
