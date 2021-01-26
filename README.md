@@ -1,6 +1,6 @@
-##Olá, seja bem vindo!
+## Olá, seja bem vindo!
 
-- Olá, sou conhecido como  intactoz
+- Olá, sou conhecido como INTACTOZ
 - Tenho 17 anos sou web developer
 - Atualmente estou programando um cheat
 - de CS:GO fique avontade para conhecer
