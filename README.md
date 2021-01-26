@@ -10,7 +10,7 @@
 
 ## INTACTOZin - :computer: 
 
-Curso JAVA,JS, C# 
+Curso JAVA, JS e C# 
 - Estou aprendendo C#
 
 
