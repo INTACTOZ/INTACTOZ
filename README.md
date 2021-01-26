@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
 
 ## Olá, seja bem vindo!
 
@@ -6,7 +6,7 @@
 - Tenho 17 anos sou web developer
 - Atualmente estou programando um cheat
 - de CS:GO fique avontade para conhecer
-- meu projetos
+- meus projetos
 
 ## INTACTOZin - :computer: 
 
