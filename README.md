@@ -1,5 +1,5 @@
-## INTACTOZin - :computer: 
 <img align="right" width="300" height="400" src="https://github.com/INTACTOZ/INTACTOZin/blob/main/giphy%20(4).gif">
+## INTACTOZin - :computer: 
 
 Curso JAVA,JS, C# 
 - Estou aprendendo C#
