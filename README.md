@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/INTACTOZ/INTACTOZin/blob/main/infiorbit.png">(https://discord.gg/WN5Vwr9kVp)
+<img align="right" width="400" height="400" src="https://github.com/INTACTOZ/INTACTOZin/blob/main/infiorbit.png">
 
 
 
@@ -13,10 +13,11 @@ Curso JAVA,JS, C#
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/INTACTOZ)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ThalyssonK)
 
-- Ter um conhecimente mais elevado
+- Sempre ter um conhecimente mais elevado
 
 
 
 ## Projeto Orbit:
+[![ORBIT](<img align="right" width="200" height="200" src="https://github.com/INTACTOZ/INTACTOZin/blob/main/infiorbit.png">)](https://github.com/INTACTOZ)
 
 - Um novo cheat de CS:GO juntamente com a infinity xyz
