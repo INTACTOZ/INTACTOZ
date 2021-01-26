@@ -1,4 +1,4 @@
-<img align="right" width="420" height="350" src="https://github.com/INTACTOZ/INTACTOZ/blob/main/intactoz.png">
+<img align="right" width="420" height="340" src="https://github.com/INTACTOZ/INTACTOZ/blob/main/intactoz.png">
 
 ## INTACTOZin - :computer: 
 
