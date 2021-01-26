@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
+<img align="right" width="400" height="400" src="https://github.com/INTACTOZ/INTACTOZin/blob/main/infiorbit.png">
 
 
 ## INTACTOZin - :computer: 
@@ -16,7 +16,7 @@ Curso JAVA,JS, C#
 
 
 
-##Projeto Orbit:
-[![ORBIT](https://imgur.com/rCjn0eZ)](https://discord.gg/WN5Vwr9kVp)
+## Projeto Orbit:
+[![ORBIT](https://github.com/INTACTOZ/INTACTOZin/blob/main/infiorbit.png)](https://discord.gg/WN5Vwr9kVp)
 
 - Um novo cheat de CS:GO juntamente com a infinity xyz
