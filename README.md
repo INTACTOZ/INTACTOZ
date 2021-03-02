@@ -1,3 +1,5 @@
+<img align="right" width="400" height="400" src="https://github.com/INTACTOZ/INTACTOZ/blob/main/intactozin.png">
+
 
 ## Olá, seja bem vindo!
 
