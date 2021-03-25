@@ -11,8 +11,9 @@
 
 ## INTACTOZin - :computer: 
 
-Curso JAVA, JS e C# 
-- Estou aprendendo C#
+
+
+- Estou estudando C/C++
 
 
 
@@ -20,7 +21,7 @@ Curso JAVA, JS e C#
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/INTACTOZ)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)]()
 
-- Sempre tenha um conhecimento mais elevado
+- A ambição é o câncer que nunca satisfaz!
 
 
 
