@@ -1,4 +1,4 @@
-
+<img align="right" width="400" height="400" src="A ambição é o câncer que nunca satisfaz">
 
 
 ## INTACTOZ - :computer: 
@@ -6,10 +6,6 @@
 - Estou estudando C/C++
 - Sou conhecido como intactoz
 - Sem anexo de mais info
-
-
-
-- **A ambição é o câncer que nunca satisfaz:
 
 
 
