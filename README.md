@@ -1,27 +1,18 @@
 <img align="right" width="400" height="400" src="https://github.com/INTACTOZ/INTACTOZ/blob/main/intactozin1.png">
 
 
-## Olá, seja bem vindo!
-
-- Olá, sou conhecido como INTACTOZ
-- Tenho 17 anos sou web developer
-- Atualmente estou programando um cheat
-- de CS:GO fique avontade para conhecer
-- meus projetos
-
-## INTACTOZin - :computer: 
-
-
+## Sobre INTACTOZ - :computer: 
 
 - Estou estudando C/C++
+- Sou conhecido como intactoz
+- Estou estudando para programar cheat's
 
 
 
-## Sobre mim:
+## A ambição é o câncer que nunca satisfaz:
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/INTACTOZ)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)]()
-
-- A ambição é o câncer que nunca satisfaz!
 
 
 
