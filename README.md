@@ -1,15 +1,12 @@
 
 
 
-## INTACTOZ - :computer: 
+## INTACTOZ - :computer:
 
-- Estou estudando C/C++
-- Sou conhecido como intactoz
-- Sem anexo de mais info
-
-
-
-## A ambição é o câncer que nunca satisfaz - 🐊
+- 📖 | Estou estudando C/C++
+- ✈️ | Sou conhecido como intactoz
+- ‼️ | Sem anexo de mais info
+- 🐊 | A ambição é o câncer que nunca satisfaz
 
 
 
