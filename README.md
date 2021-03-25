@@ -5,7 +5,7 @@
 
 - Estou estudando C/C++
 - Sou conhecido como intactoz
-- Estou estudando para programar cheat's
+- Sem anexo de mais info
 
 
 
